@@ -2,7 +2,7 @@
 
 The const keyword prevents a specific object/method/variable/pointer/object of class to modify its data items value.
 
-###Below we will discuss some of its uses:
+### Below we will discuss some of its uses:
 - **Constant variables:**
   constant variables have to be assigned value at the time of declaration (can't be left uninitialized at the time of 
   assignment or be assigned value elsewhere in the program).
@@ -110,9 +110,9 @@ The const keyword prevents a specific object/method/variable/pointer/object of c
 *The above text was written with the help of [GeeksforGeeks](https://www.geeksforgeeks.org/const-keyword-in-cpp/).*
      
 
-#(B) Usage of & operator
+# (B) Usage of & operator
 
-###Below we will discuss some of its uses:
+### Below we will discuss some of its uses:
 
 - **To declare a reference to a type:**
   
